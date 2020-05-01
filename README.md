@@ -1,24 +1,24 @@
 # Nbdev tutorial
-> Summary description here.
+> Introductory tutorial test.
 
 
-This file will become your README and also the index of your documentation.
+This file will become the README and also the index of the documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nb`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+say_hello('Name')
 ```
 
 
 
 
-    2
+    'Hello Name!'
 
 
